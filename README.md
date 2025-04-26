@@ -7,8 +7,8 @@ Run with python3.11
 
 Intsall requirements and run on Linux:
 ```bash
-python 3.11 venv .venv
+python3.11 -m venv .venv
 source .venv/bin/activate
-python 3.11 -m pip install -r requirements.txt
-python 3.11 main.py
+python3.11 -m pip install -r requirements.txt
+python3.11 main.py
 ```
